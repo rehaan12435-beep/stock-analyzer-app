@@ -4,3 +4,4 @@ pandas
 numpy
 snscrape
 textblob
+snscrape
